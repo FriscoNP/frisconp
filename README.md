@@ -1,4 +1,4 @@
-### Hi there, I'm Frisco Nirwana Putra, my friends usually called me Frisco 👋
+### Hi there, I'm Frisco 👋
 
 ## I'm a Fresh-graduate!
 
