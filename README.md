@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Frisco Nirwana Putra, my friends usually called me Frisco 👋
 
-<!--
-**frisconp/frisconp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Fresh-graduate!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [My Own YouTube Channel][youtube]
+- 🌱 I’m currently learning PHP, Python, and JavaScript
+- 👯 I’m looking to collaborate on Web Development
+- ⚡ Fun fact: I love listening to podcasts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Frisco's github stats](https://github-readme-stats.vercel.app/api?username=frisconp&show_icons=true)
+
+[youtube]: https://www.youtube.com/channel/UCi6OxCms6YEiiTtT41qkleg
