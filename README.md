@@ -2,9 +2,9 @@
 
 ## I'm a Fresh-graduate!
 
-- 🔭 I’m currently working on [My Own YouTube Channel](https://www.youtube.com/channel/UCi6OxCms6YEiiTtT41qkleg)
+- 🔭 I’m currently working on [TwisCode Pte. Ltd.](https://twiscode.com/)
 - 🌱 I’m currently learning PHP, Python, and JavaScript
-- 👯 I’m looking to collaborate on Web Development
+- 👯 I’m looking to collaborate on Backend Development
 - ⚡ Fun fact: I love listening to podcasts
 
 ---
