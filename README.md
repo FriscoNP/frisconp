@@ -1,6 +1,6 @@
 ### Hi there, I'm Frisco 👋
 
-## I'm a Fresh-graduate!
+## I'm a Backend Developer!
 
 - 🔭 I’m currently working on [TwisCode Pte. Ltd.](https://twiscode.com/)
 - 🌱 I’m currently learning PHP, Python, and JavaScript
