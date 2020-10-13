@@ -3,7 +3,7 @@
 ## I'm a Backend Developer!
 
 - 🔭 I’m currently working on [TwisCode Pte. Ltd.](https://twiscode.com/)
-- 🌱 I’m currently learning PHP, Python, and JavaScript
+- 🌱 I’m currently learning PHP and Golang
 - 👯 I’m looking to collaborate on Backend Development
 - ⚡ Fun fact: I love listening to podcasts
 
