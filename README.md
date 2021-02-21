@@ -1,5 +1,3 @@
-# Curriculum Vitae
-
 > Hi, my name is Frisco. I'm a software engineer, specifically focusing on Back-end Development. I've 1 year of experience as a Back-end Developer, and I mostly code in PHP and Golang.
 
 # ☎️ Contact Information
