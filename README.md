@@ -1,7 +1,7 @@
 ### Hi there, I'm Frisco 👋
-## I'm a Back-end Developer!
+## I'm a Software Engineer!
 
-- 🔭 I’m currently working on [TwisCode Pte. Ltd.](https://twiscode.com/)
+- 🔭 I’m currently working on [Amartha](https://amartha.com/)
 - 🌱 I’m currently learning PHP and Golang
 - 👯 I’m looking to collaborate on Backend Development
 - ⚡ Fun fact: I love listening to podcasts
