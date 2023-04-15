@@ -2,8 +2,8 @@
 ## I'm a Software Engineer!
 
 - 🔭 I’m currently working on [Amartha](https://amartha.com/)
-- 🌱 I’m currently learning PHP and Golang
-- 👯 I’m looking to collaborate on Backend Development
+- 🌱 I’m currently learning Golang and Javascript
+<!-- - 👯 I’m looking to collaborate on Backend Development -->
 - ⚡ Fun fact: I love listening to podcasts
 
 ---
