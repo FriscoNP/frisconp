@@ -1,5 +1,27 @@
-# Hi, I'm Frisco 👋🧑‍💻
+# 👋 Hi, I'm Frisco
 
-![GitHub Banner](https://github.com/user-attachments/assets/c752c925-976c-49f3-b61c-b4e1de73e5d7)
+I'm a **Backend Engineer** who loves building clean, scalable, and maintainable systems.  
+Currently focused on **Golang**, with experience in **PHP**, **PostgreSQL**, and **MongoDB**.
 
-With a blend of **technical expertise** and a knack for humor, I've spent the past **4 years** mastering **back-end engineering** using **PHP and Golang**. Currently, I'm diving into the world of **Java** to expand my skill set. My passion for gaming and all things **tech** keeps me on my toes, always eager to explore new frontiers in the digital realm.
+---
+
+### 🧠 About Me
+- I enjoy designing backend architectures that prioritize **clarity and performance**.
+- Passionate about **clean code** and **reliable delivery**.
+- Always learning and exploring better ways to structure and scale backend systems.
+
+---
+
+### ⚙️ Tech Stack
+- **Languages:** Go, PHP  
+- **Databases:** PostgreSQL, MongoDB  
+- **Others:** Docker, REST APIs, Clean Architecture
+
+---
+
+### 🚀 Currently Working On
+Building something new in Go — stay tuned!
+
+---
+
+> “I believe good backend engineering is invisible — it just works.”
